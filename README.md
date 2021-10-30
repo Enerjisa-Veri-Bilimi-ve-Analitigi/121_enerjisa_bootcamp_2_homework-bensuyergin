@@ -1,4 +1,4 @@
-# 121_enerjisa_bootcamp_3_homework-bensuyergin
+# 121_enerjisa_bootcamp_2_homework-bensuyergin
 <ul> 
 <li> 1-) One hot encoding modelin görmediği veriye nasıl uygulanır? </li>
 <li> 2-) Labelencoding'de ilgili kolon için ölçeklendirme nasıl yapılır? (Verinin doğru etkisiyle sayısal olarak dönüştürülmesi) </li>
